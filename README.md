@@ -2,6 +2,10 @@
 
 A simple web-based Todo List application built using HTML, CSS, and JavaScript.
 
+## Live View
+
+You can view the live version of this Todo List [here](https://konprtk.github.io/TODOList/).
+
 ## Overview
 
 This Todo List allows users to add tasks to a list and 
@@ -19,6 +23,7 @@ It provides a clean and intuitive interface for managing tasks.
 1. Clone the repository to your local machine.
 2. Open `index.html` in your web browser.
 
+
 ## How to Contribute
 
 If you'd like to contribute to this project, you can follow these steps:
@@ -33,5 +38,3 @@ If you'd like to contribute to this project, you can follow these steps:
 ## Created with AI
 
 This Todo List was created with the assistance of ChatGPT and Perplexity AI.
-
-
