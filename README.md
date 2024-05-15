@@ -4,7 +4,7 @@ A simple web-based Todo List application built using HTML, CSS, and JavaScript.
 
 ## Live View
 
-You can view the live version of this Todo List [here](https://konprtk.github.io/TODOList/).
+You can view the live version of this Todo List [here](https://konprtk.github.io/TODOList/){:target="_blank"}.
 
 ## Overview
 
