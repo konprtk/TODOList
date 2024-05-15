@@ -38,3 +38,12 @@ If you'd like to contribute to this project, you can follow these steps:
 ## Created with AI
 
 This Todo List was created with the assistance of ChatGPT and Perplexity AI.
+
+
+## Contact
+
+For any questions or suggestions, feel free to reach out to me:
+- Email: official.pratik.2003@gmail.com
+- GitHub: [konprtk](https://github.com/konprtk)
+- LinkedIn: [Pratik Lokhande](https://linkedin.com/in/pratiklokhande14)
+- CodePen: [konprtk](https://codepen.io/konprtk)
